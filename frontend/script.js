@@ -1,4 +1,4 @@
-const API = "http://127.0.0.1:8000";
+const API = "https://ci-cd-notes-backend.onrender.com";
 
 async function createNote() {
     const title = document.getElementById("title").value;
